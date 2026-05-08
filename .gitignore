@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Downloads (don't commit downloaded videos)
+Downloads/
+*.mp4
+*.webm
+*.mkv
+*.mp3
+
+# IDE
+.vscode/
+.idea/
+*.swp
